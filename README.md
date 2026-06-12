@@ -34,7 +34,7 @@ Episode duration and raw episode position were **not** significant predictors (p
  
 A Slow episode (pacing ≤ 4) followed by another Slow episode produces ~42.7% drop-off — statistically the same as a Fast→Slow "whiplash" transition (~42.9%). But a Slow episode followed by a Fast one drops to just **2.5%**. The single worst cell in the entire dataset: **Episode 8 with pacing=3 → 71% drop-off**.
  
-![Pacing Episode-Level Heatmap](images/VIZ4_pacing_episode_level.png)
+![image](https://github.com/garvitkumbhat619/OTT_Retention_Case_study/blob/main/RCA/B3_structural_vs_content.png)
  
 ---
  
@@ -59,7 +59,7 @@ K-Means clustering (k=4, validated via Elbow, Silhouette, Calinski-Harabász, an
  
 Content design (pacing/hook/cognitive load combination) — not genre or episode position — is the dominant driver of which segment an episode falls into.
  
-![Segment Radar Charts](images/C5_radar_charts.png)
+![image](https://github.com/garvitkumbhat619/OTT_Retention_Case_study/blob/main/segmentation/C6_radar_overlay.png)
  
 ---
  
